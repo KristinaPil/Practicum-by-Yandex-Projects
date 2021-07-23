@@ -1,2 +1,8 @@
-# Practicum-by-Yandex-Projects
-Here are my graduated projects from Yandex Practicum courses
+#  Projects Overview
+I finished [Practicum by Yandex Data Analyst](https://practicum.yandex.com/data-analyst) courses. Here is the overview of my projects I did for the last 6 months. In the table you can see the list of projects with their description.
+
+|**Project**                    |**Description**                   |**Steps of the project**         |**Libraries**                    |
+|:--------------------------|:------------------------------|:----------------------------|:----------------------------|
+|**1. Online game store Ice**|We have data on user and expert reviews, genres, platforms (e.g. Xbox or PlayStation), and historical data on game sales. It need to identify patterns that determine whether a game succeeds or not. Also it need to spot potential big winners and plan advertising campaigns. |1. Generall information about the data 2. Preparing the data for analysis 3. Analyzing the data 4. User profile for each region 5. Testing Hypotheses|pandas, numpy, matplotlib, scipy, seaborn|
+|**2. Startup store of food products**|We have to investigate user behavior for the company's app. In this project we study the sales funnel for each stage from app page overview till purchase stage. Then we conduct the A/A/B test for three testing groups.|1. Looking at the general information 2. Preparing for analysis 3. Observation the data 4. Creating the sales funnel for each event 5. A/A/B testing of hypotheses|pandas, numpy, matplotlib, scipy, seaborn, plotly.express, graph objects|
+|**3. The building-material retailer Home World**|The dataset contains data on purchases made at the building-material retailer Home World. All of its customers have membership cards. Moreover, they can become members of the store's loyalty program for $20 per month. The program includes discounts, information on special offers, and gifts. Assess the performance of the chain's sales outlets.|1. General information about datasets 2. Data Preprocessing 3. Expolatory data analysis 4. Testing hypotheses|pandas, numpy, matplotlib, scipy, seaborn, plotly.express, math|
