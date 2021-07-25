@@ -1,4 +1,4 @@
-## Online game store Ice
+## The building-material retailer Home World
 ### Goal of the project
 Assess the performance of the chain's sales outlets. Observe the purchases in the the store. Indicate the number of customers. Test the hypotheses. Create the dashboard on Tableau.
 ### Data
