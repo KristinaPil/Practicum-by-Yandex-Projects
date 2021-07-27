@@ -1,5 +1,5 @@
 #  Projects Overview
-I finished [Practicum by Yandex Data Analyst](https://practicum.yandex.com/data-analyst) courses. Here is the overview of my projects I did for the last 6 months. In the table you can see the list of projects with their description.
+This is an overview of some of the projects I've done over the past 6 month during the [Practicum by Yandex Data Analyst](https://practicum.yandex.com/data-analyst) course. Find a list of projects and their descriptions in the table below.
 
 |**Project**                    |**Description**                   |**Steps of the project**         |**Libraries**                    |
 |:--------------------------|:------------------------------|:----------------------------|:----------------------------|
